@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">न्यूट्रीस्कॅन</string>
+    <string name="scanned_barcode_label">स्कॅन केलेला बारकोड: </string>
+    <string name="barcode_placeholder">स्कॅन केलेला बारकोड येथे दिसेल</string>
+
+    <!-- Profile Activity Strings -->
+    <string name="create_your_profile">तुमची प्रोफाइल तयार करा</string>
+    <string name="name_hint">नाव</string>
+    <string name="age_hint">वय</string>
+    <string name="gender_label">लिंग</string>
+    <string name="allergies_hint">ऍलर्जी (उदा. शेंगदाणे, ग्लूटेन)</string>
+    <string name="save_and_continue">जतन करा आणि पुढे जा</string>
+    <string-array name="gender_array">
+        <item>पुरुष</item>
+        <item>स्त्री</item>
+        <item>इतर</item>
+    </string-array>
+</resources>
